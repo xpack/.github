@@ -6,6 +6,11 @@ The xPack project aims to provide a set of cross-platform tools to manage, confi
 
 - <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool
 
+Planned tools:
+
+- <https://github.com/xpack/xpjson-ts/> - A tool to manipulate JSON files (extract/replace/remove values)
+- <https://github.com/xpack/xpliquid-ts/> - A tool to expand liquid templates
+
 ### npm modules
 
 - <https://github.com/xpack/logger-ts/> - A Node.js module with a generic console logger clas
@@ -16,11 +21,6 @@ The xPack project aims to provide a set of cross-platform tools to manage, confi
 ### xPacks
 
 - <https://github.com/xpack/hello-world-template-xpack/> - A source xPack with a template to generate Hello World projects
-
-Planned tools:
-
-- <https://github.com/xpack/xpjson-ts/> - A tool to manipulate JSON files (extract/replace/remove values)
-- <https://github.com/xpack/xpliquid-ts/> - A tool to expand liquid templates
 
 ### Visual Studio Code
 
