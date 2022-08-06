@@ -18,7 +18,7 @@ Planned tools:
 - <https://github.com/xpack/xpm-liquid-ts/> - The liquid substitutions code used by xpm & relatives
 - <https://github.com/xpack/update-checker-js/> - A Node.js module to check if a newer version of a `npm` package is available
 
-### xPacks
+### Project templates
 
 - <https://github.com/xpack/hello-world-template-xpack/> - A source xPack with a template to generate Hello World projects
 
