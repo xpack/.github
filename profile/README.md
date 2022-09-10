@@ -8,8 +8,8 @@ The xPack project aims to provide a set of cross-platform tools to manage, confi
 
 Planned tools:
 
-- <https://github.com/xpack/xpjson-ts/> - A tool to manipulate JSON files (extract/replace/remove values)
-- <https://github.com/xpack/xpliquid-ts/> - A tool to expand liquid templates
+- <https://github.com/xpack/xpjson-cli-ts/> - A tool to manipulate JSON files (extract/replace/remove values)
+- <https://github.com/xpack/xpliquid-cli-ts/> - A tool to expand liquid templates
 
 ### npm modules
 
