@@ -30,6 +30,13 @@ Planned tools:
 
 - <https://github.com/xpack/xpack-build-box/>
 
+### Related projects
+
+- <https://github.com/xpack-dev-tools/> - 3rd Party Development Tools
+- <https://github.com/micro-os-plus> - The µOS++ IIIe framework
+- <https://github.com/xpack-3rd-party> - 3rd party source xPacks
+- <https://github.com/eclipse-embed-cdt> - Eclipse Embedded CDT (C/C++ Development Tools)
+
 ### Misc
 
 - <https://github.com/xpack/web-jekyll/> - The xPack web site Jekyll source
