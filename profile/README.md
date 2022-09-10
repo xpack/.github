@@ -33,13 +33,13 @@ Planned tools:
 ### Related projects
 
 - <https://github.com/xpack-dev-tools/> - 3rd Party Development Tools
-- <https://github.com/micro-os-plus> - The µOS++ IIIe framework
-- <https://github.com/xpack-3rd-party> - 3rd party source xPacks
-- <https://github.com/eclipse-embed-cdt> - Eclipse Embedded CDT (C/C++ Development Tools)
+- <https://github.com/micro-os-plus/> - The µOS++ IIIe framework
+- <https://github.com/xpack-3rd-party/> - 3rd party source xPacks
+- <https://github.com/eclipse-embed-cdt/> - Eclipse Embedded CDT (C/C++ Development Tools)
 
 ### Misc
 
 - <https://github.com/xpack/web-jekyll/> - The xPack web site Jekyll source
 - <https://xpack.github.io/web-preview/> - Test site where future versions of the web site are published
 - <https://github.com/xpack/assets/> - Various assets used in the xPack project
-- <https://github.com/xpack/design-notes> - Internal project notes
+- <https://github.com/xpack/design-notes/> - Internal project notes
