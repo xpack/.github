@@ -20,7 +20,7 @@ Planned tools:
 
 ### Project templates
 
-- <https://github.com/xpack/hello-world-template-xpack/> - A source xPack with a template to generate Hello World projects
+- <https://github.com/xpack/hello-world-template-xpack/> - A xpm template to generate Hello World projects
 
 ### Visual Studio Code
 
