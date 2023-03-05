@@ -11,7 +11,7 @@ Planned tools:
 - <https://github.com/xpack/xpjson-cli-ts/> - A CLI tool to manipulate JSON files (extract/replace/remove values)
 - <https://github.com/xpack/xpliquid-cli-ts/> - A CLI tool to expand liquid templates
 
-### npm modules
+### Node.js modules
 
 - <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class
 - <https://github.com/xpack/cli-start-options-js/> - A framework to implement command line Node.js applications
