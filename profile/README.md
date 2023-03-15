@@ -26,6 +26,11 @@ Planned tools:
 
 - <https://github.com/xpack/vscode-xpack-extension-ts/> - A Visual Studio Code C/C++ managed build extension
 
+### Web site
+
+- <https://github.com/xpack/web-jekyll/> - The xPack web site Jekyll source
+- <https://xpack.github.io/web-preview/> - Test site where future versions of the web site are published
+
 ### xPack Build Box
 
 - <https://github.com/xpack/xpack-build-box/>
@@ -39,7 +44,5 @@ Planned tools:
 
 ### Misc
 
-- <https://github.com/xpack/web-jekyll/> - The xPack web site Jekyll source
-- <https://xpack.github.io/web-preview/> - Test site where future versions of the web site are published
 - <https://github.com/xpack/assets/> - Various assets used in the xPack project
 - <https://github.com/xpack/design-notes/> - Internal project notes
