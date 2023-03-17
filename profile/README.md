@@ -13,10 +13,12 @@ Planned tools:
 
 ### Node.js modules
 
-- <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class
+In alphabetical order:
+
 - <https://github.com/xpack/cli-start-options-js/> - A framework to implement command line Node.js applications
-- <https://github.com/xpack/xpm-liquid-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives
+- <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class
 - <https://github.com/xpack/update-checker-ts/> - A Node.js ES6 module to notify when a newer version of a npm package is available
+- <https://github.com/xpack/xpm-liquid-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives
 
 ### Project templates
 
