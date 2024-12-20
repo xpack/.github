@@ -2,9 +2,10 @@
 
 The **xPack** project aims to provide a set of cross-platform tools to manage, configure and build complex, modular, multi-target (multi-architecture, multi-board, multi-toolchain) projects, with an emphasis on C/C++ and bare-metal embedded projects.
 
-### xpm
+### Core Tools
 
 - <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool
+- <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool
 
 ### Node.js modules
 
@@ -26,12 +27,12 @@ In alphabetical order:
 
 ### Web site
 
-- <https://github.com/xpack/web-jekyll/> - The xPack web site Jekyll source
-- <https://xpack.github.io/web-preview/> - Test site where future versions of the web site are published
+- <https://github.com/xpack/xpack.github.io/> - The Docusaurus website
+- <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site
 
 ### xPack Build Box
 
-- <https://github.com/xpack/xpack-build-box/>
+- <https://github.com/xpack-dev-tools/xpack-build-box/>
 
 ### Related projects
 
