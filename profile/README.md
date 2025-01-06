@@ -28,6 +28,7 @@ In alphabetical order:
 ### Web site
 
 - <https://github.com/xpack/xpack.github.io/> - The Docusaurus website
+- <https://github.com/xpack/web-preview/> - The Docusaurus website preview
 - <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site
 
 ### xPack Build Box
