@@ -4,18 +4,18 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 ### Core Tools
 
-- <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool
-- <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool
+- <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool ([www](https://xpack.github.io/xpm/))
+- <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool ([www](https://xpack.github.io/xcdl/))
 
 ### Node.js modules
 
 In alphabetical order:
 
-- <https://github.com/xpack/cli-start-options-js/> - A framework to implement command line Node.js applications
-- <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class
-- <https://github.com/xpack/mock-console-ts/> - A Node.js CommonJS/ES6 module with a mock console class
-- <https://github.com/xpack/update-checker-ts/> - A Node.js ES6 module to notify when a newer version of a npm package is available
-- <https://github.com/xpack/xpm-liquid-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives
+- <https://github.com/xpack/cli-start-options-js/> - A framework to implement command line Node.js applications ([www](https://xpack.github.io/cli-start-options-js/))
+- <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class ([www](https://xpack.github.io/logger-ts/))
+- <https://github.com/xpack/mock-console-ts/> - A Node.js CommonJS/ES6 module with a mock console class ([www](https://xpack.github.io/mock-console-ts/))
+- <https://github.com/xpack/update-checker-ts/> - A Node.js ES6 module to notify when a newer version of a npm package is available ([www](https://xpack.github.io/update-checker-ts/))
+- <https://github.com/xpack/xpm-liquid-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives ([www](https://xpack.github.io/xpm-liquid-ts/))
 
 ### Project templates
 
@@ -25,11 +25,11 @@ In alphabetical order:
 
 - <https://github.com/xpack/vscode-xpack-extension-ts/> - A Visual Studio Code C/C++ managed build extension
 
-### Web site
+### Web site projects
 
-- <https://github.com/xpack/xpack.github.io/> - The Docusaurus website
-- <https://github.com/xpack/web-preview/> - The Docusaurus website preview
-- <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site
+- <https://github.com/xpack/xpack.github.io/> - The Docusaurus website ([www](https://xpack.github.io/))
+- <https://github.com/xpack/web-preview/> - The Docusaurus website preview ([www](https://xpack.github.io/web-preview/))
+- <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site ([www](https://xpack.github.io/web-archive-jekyll/))
 
 ### xPack Build Box
 
