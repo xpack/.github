@@ -4,8 +4,8 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 ### Core Tools
 
-- <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool ([www](https://xpack.github.io/xpm/))
-- <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool ([www](https://xpack.github.io/xcdl/))
+- <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool ([www](https://xpack.github.io/xpm/), [preview](https://xpack.github.io/xpm-js/))
+- <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool ([www](https://xpack.github.io/xcdl/), [preview](https://xpack.github.io/xcdl-cli-ts/))
 
 ### Node.js modules
 
@@ -28,8 +28,8 @@ In alphabetical order:
 ### Web site projects
 
 - <https://github.com/xpack/xpack.github.io/> - The Docusaurus website ([www](https://xpack.github.io/))
-- <https://github.com/xpack/web-preview/> - The Docusaurus website preview ([www](https://xpack.github.io/web-preview/))
-- <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site ([www](https://xpack.github.io/web-archive-jekyll/))
+- <https://github.com/xpack/web-preview/> - The Docusaurus website preview ([preview](https://xpack.github.io/web-preview/))
+- <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site ([archive](https://xpack.github.io/web-archive-jekyll/))
 
 ### xPack Build Box
 
