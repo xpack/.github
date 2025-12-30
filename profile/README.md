@@ -11,11 +11,11 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 In alphabetical order:
 
-- <https://github.com/xpack/cli-start-options-js/> - A framework to implement command line Node.js applications ([www](https://xpack.github.io/cli-start-options-js/))
+- <https://github.com/xpack/cli-start-options-ts/> - A framework to implement command line Node.js applications (work in progress)
 - <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class ([www](https://xpack.github.io/logger-ts/))
 - <https://github.com/xpack/mock-console-ts/> - A Node.js CommonJS/ES6 module with a mock console class ([www](https://xpack.github.io/mock-console-ts/))
 - <https://github.com/xpack/update-checker-ts/> - A Node.js ES6 module to notify when a newer version of a npm package is available ([www](https://xpack.github.io/update-checker-ts/))
-- <https://github.com/xpack/xpm-liquid-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives ([www](https://xpack.github.io/xpm-liquid-ts/))
+- <https://github.com/xpack/xpm-lib-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives ([www](https://xpack.github.io/xpm-lib-ts/))
 
 ### Project templates
 
