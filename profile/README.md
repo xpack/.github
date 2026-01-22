@@ -9,8 +9,8 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 
 ### Documentation Tool
 
-- <https://github.com/xpack/doxygen2docusaurus-cli-ts)/> - The Doxygen Documentation Converter ([www](https://xpack.github.io/doxygen2docusaurus/), [preview](https://xpack.github.io/doxygen2docusaurus-cli-ts/)
-- <https://github.com/xpack/tsdoc2docusaurus-cli-ts)/> - The TSDoc Documentation Converter ([www](https://xpack.github.io/tsdoc2docusaurus/), [preview](https://xpack.github.io/tsdoc2docusaurus-cli-ts/)
+- <https://github.com/xpack/doxygen2docusaurus-cli-ts/> - The Doxygen Documentation Converter ([www](https://xpack.github.io/doxygen2docusaurus/), [preview](https://xpack.github.io/doxygen2docusaurus-cli-ts/)
+- <https://github.com/xpack/tsdoc2docusaurus-cli-ts/> - The TSDoc Documentation Converter ([www](https://xpack.github.io/tsdoc2docusaurus/), [preview](https://xpack.github.io/tsdoc2docusaurus-cli-ts/)
 
 ### Node.js modules
 
