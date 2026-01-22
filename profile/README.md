@@ -7,6 +7,11 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 - <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool ([www](https://xpack.github.io/xpm/), [preview](https://xpack.github.io/xpm-js/))
 - <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool ([www](https://xpack.github.io/xcdl/), [preview](https://xpack.github.io/xcdl-cli-ts/))
 
+### Documentation Tool
+
+- <https://github.com/xpack/doxygen2docusaurus-cli-ts)/> - The Doxygen Documentation Converter ([www](https://xpack.github.io/doxygen2docusaurus/), [preview](https://xpack.github.io/doxygen2docusaurus-cli-ts/)
+- <https://github.com/xpack/tsdoc2docusaurus-cli-ts)/> - The TSDoc Documentation Converter ([www](https://xpack.github.io/tsdoc2docusaurus/), [preview](https://xpack.github.io/tsdoc2docusaurus-cli-ts/)
+
 ### Node.js modules
 
 In alphabetical order:
@@ -15,7 +20,7 @@ In alphabetical order:
 - <https://github.com/xpack/logger-ts/> - A Node.js CommonJS/ES6 module with a generic console logger class ([www](https://xpack.github.io/logger-ts/))
 - <https://github.com/xpack/mock-console-ts/> - A Node.js CommonJS/ES6 module with a mock console class ([www](https://xpack.github.io/mock-console-ts/))
 - <https://github.com/xpack/update-checker-ts/> - A Node.js ES6 module to notify when a newer version of a npm package is available ([www](https://xpack.github.io/update-checker-ts/))
-- <https://github.com/xpack/xpm-lib-ts/> - A Node.js CommonJS/ES6 module with the Liquid substitutions code used by xpm & relatives ([www](https://xpack.github.io/xpm-lib-ts/))
+- <https://github.com/xpack/xpm-lib-ts/> - A Node.js ES6 module with the xpm core code used by xpm & relatives ([www](https://xpack.github.io/xpm-lib-ts/))
 
 ### Project templates
 
@@ -31,6 +36,11 @@ In alphabetical order:
 - <https://github.com/xpack/web-preview/> - The Docusaurus website preview ([preview](https://xpack.github.io/web-preview/))
 - <https://github.com/xpack/web-archive-jekyll/> - The deprecated Jekyll web site ([archive](https://xpack.github.io/web-archive-jekyll/))
 
+### Project helpers
+
+- <https://github.com/xpack/npm-packages-helper/> - Common scripts and templates used in npm packages
+- <https://github.com/xpack/docusaurus-template-liquid/> - The template used to generate the Docusaurus web sites
+  
 ### xPack Build Box
 
 - <https://github.com/xpack-dev-tools/xpack-build-box/>
