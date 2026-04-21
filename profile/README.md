@@ -7,7 +7,7 @@ The **xPack** project aims to provide a set of cross-platform tools to manage, c
 - <https://github.com/xpack/xpm-js/> - The xPack Project Manager command line tool ([www](https://xpack.github.io/xpm/), [preview](https://xpack.github.io/xpm-js/))
 - <https://github.com/xpack/xcdl-cli-ts/> - The xPack Component Manager command line tool ([www](https://xpack.github.io/xcdl/), [preview](https://xpack.github.io/xcdl-cli-ts/))
 
-### Documentation Tool
+### Documentation Tools
 
 - <https://github.com/xpack/doxygen2docusaurus-cli-ts/> - The Doxygen Documentation Converter ([www](https://xpack.github.io/doxygen2docusaurus/), [preview](https://xpack.github.io/doxygen2docusaurus-cli-ts/))
 - <https://github.com/xpack/tsdoc2docusaurus-cli-ts/> - The TSDoc Documentation Converter
